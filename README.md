@@ -1,6 +1,6 @@
 Regression:
 
-Regression is a type of Supervised Learning,where we provide the algorithm with the true value of each data during the training process. After that, we can use the trained model to predict a numeric value,whether it's a pice that you should pay  to buy a new house, people's weight and height , birth rate, etc.
+Regression is a type of Supervised Learning,where we provide the algorithm with the true value of each data during the training process. After that, we can use the trained model to predict a numeric value,whether it's a price that you should pay  to buy a new house, people's weight and height , birth rate, etc.
 
 
 Linear Regression:
@@ -10,7 +10,7 @@ It tries to establish a realtionship between the dependent variable 'y' and one 
 
 TYPES:
 
-Simple Linear Regrssion
+Simple Linear Regression
 
 Multiple Linear Regression
 
